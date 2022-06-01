@@ -35,7 +35,7 @@ Record: "v=spf1 -all"
 
 ### 2. DMARC protocol
 
-DMARC (Domain-based Message Authentication, Reporting and Conformance) is an email protocol that is designed to give domain owners the ability to protech their domain from email spoofing.  The UK government have an email setup to allow you to receive reports of potential abuse of your domain.
+DMARC (Domain-based Message Authentication, Reporting and Conformance) is an email protocol that is designed to give domain owners the ability to protect their domain from email spoofing.  The UK government have an email setup to allow you to receive reports of potential abuse of your domain.
 
 ```
 Domain: _dmarc.documentation.technology 
