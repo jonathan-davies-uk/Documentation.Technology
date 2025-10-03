@@ -9,6 +9,7 @@
 | Clone repository | `git clone <git@github.com:github-username/github-repo-name.git>` |
 | Initialize repo  | `git init`                                                        |
 | Set remote       | `git remote add origin <url>`                                     |
+
 To push changes to your repository, issue the following commands:
 ```bash
 git add .
