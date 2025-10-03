@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/Git Bash Commands.md",
+                "file": "GitHub/3. Sync GitHub Repository to Windows Machine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git Bash Commands"
+              "title": "3. Sync GitHub Repository to Windows Machine"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/Git Bash Commands.md",
+                "file": "GitHub/3. Sync GitHub Repository to Windows Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git Bash Commands"
+              "title": "Backlinks for 3. Sync GitHub Repository to Windows Machine"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/Git Bash Commands.md",
+                "file": "GitHub/3. Sync GitHub Repository to Windows Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Git Bash Commands"
+              "title": "Outgoing links from 3. Sync GitHub Repository to Windows Machine"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub/Git Bash Commands.md",
+                "file": "GitHub/3. Sync GitHub Repository to Windows Machine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Git Bash Commands"
+              "title": "Outline of 3. Sync GitHub Repository to Windows Machine"
             }
           }
         ]
@@ -182,11 +182,11 @@
   },
   "active": "7c10713a58c6043c",
   "lastOpenFiles": [
-    "GitHub/Setup SSH.md",
-    "GitHub/Sync GitHub Repository to Windows Machine.md",
+    "GitHub/2. Setup SSH.md",
+    "GitHub/1. Setup Git on Windows.md",
     "GitHub/Git Bash Commands.md",
+    "GitHub/3. Sync GitHub Repository to Windows Machine.md",
     "Firewall/OPNsense Firewall.md",
-    "GitHub/Setup Git on Windows.md",
     "Firewall/Install OPNSense Firewall on Proxmox VE.md",
     "GitHub"
   ]
