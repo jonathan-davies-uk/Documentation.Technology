@@ -1,0 +1,86 @@
+## 1. Generate SSH Key
+- Open Git Bash and run the following command `ssh-keygen -t ed25519 -C "your-email@gmail.com"`
+## 2. Add the public key to GitHub account
+- Open https://github.com and Login
+- Browse Profile > **Settings**
+- Under Access, select **SSH and GPG keys**
+- Select **New SSH key** and fill out as follows:
+	- Title: **Windows Desktop**
+	- Key type: **Authentication Key**
+	- Key: Paste the public key `~/.ssh/id_ed25519.pub`
+## 3. Test your SSH connection
+- Open Git Bash and run the following command: `ssh -T git@github.com`
+- You will see a warning:
+```shell
+> The authenticity of host 'github.com (IP ADDRESS)' can't be established.
+> ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+> Are you sure you want to continue connecting (yes/no)?
+```
+- Verify that the fingerprint in the message you see matches the public key fingerprint. If it does, type `yes` 
+```shell
+> Hi USERNAME! You've successfully authenticated, but GitHub does not
+> provide shell access.
+```
+## 4. Auto Launch `ssh-agent` on Git for Windows
+- Open Git Bash and run the following commands
+```bash
+touch ~/.bashrc
+nano ~/.bashrc
+```
+- Paste the following in:
+```bash
+env=~/.ssh/agent.env
+
+agent_load_env () { test -f "$env" && . "$env" >| /dev/null ; }
+
+agent_start () {
+    (umask 077; ssh-agent >| "$env")
+    . "$env" >| /dev/null ; }
+
+agent_load_env
+
+# agent_run_state: 0=agent running w/ key; 1=agent w/o key; 2=agent not running
+agent_run_state=$(ssh-add -l >| /dev/null 2>&1; echo $?)
+
+if [ ! "$SSH_AUTH_SOCK" ] || [ $agent_run_state = 2 ]; then
+    agent_start
+    ssh-add
+elif [ "$SSH_AUTH_SOCK" ] && [ $agent_run_state = 1 ]; then
+    ssh-add
+fi
+
+unset env
+```
+- Save and exit by doing the following:
+	- Press `Ctrl+O` to save, `Enter` to confirm, then `Ctrl+X` to exit
+- Run the following commands
+```bash
+touch ~/.profile
+nano ~/.profile
+```
+Paste the following in:
+```bash
+env=~/.ssh/agent.env
+
+agent_load_env () { test -f "$env" && . "$env" >| /dev/null ; }
+
+agent_start () {
+    (umask 077; ssh-agent >| "$env")
+    . "$env" >| /dev/null ; }
+
+agent_load_env
+
+# agent_run_state: 0=agent running w/ key; 1=agent w/o key; 2=agent not running
+agent_run_state=$(ssh-add -l >| /dev/null 2>&1; echo $?)
+
+if [ ! "$SSH_AUTH_SOCK" ] || [ $agent_run_state = 2 ]; then
+    agent_start
+    ssh-add
+elif [ "$SSH_AUTH_SOCK" ] && [ $agent_run_state = 1 ]; then
+    ssh-add
+fi
+
+unset env
+```
+- Save and exit by doing the following:
+	- Press `Ctrl+O` to save, `Enter` to confirm, then `Ctrl+X` to exit
