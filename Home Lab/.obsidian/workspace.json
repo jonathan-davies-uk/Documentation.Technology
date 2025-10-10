@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Raspberry Pi/Raspberry Pi - Kali Linux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "Raspberry Pi - Kali Linux"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/3. Sync GitHub Repository to Windows Machine.md",
+                "file": "Raspberry Pi/Raspberry Pi - Kali Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Sync GitHub Repository to Windows Machine"
+              "title": "Backlinks for Raspberry Pi - Kali Linux"
             }
           },
           {
@@ -177,21 +177,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub/3. Sync GitHub Repository to Windows Machine.md",
+                "file": "Raspberry Pi/Raspberry Pi - Kali Linux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Sync GitHub Repository to Windows Machine"
+              "title": "Outline of Raspberry Pi - Kali Linux"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,11 +207,12 @@
   },
   "active": "adb309ed76cb71cb",
   "lastOpenFiles": [
-    "Hardware Requirements.md",
-    "Ideas.md",
-    "Requirements.md",
     "GitHub/Git Bash Commands.md",
-    "Raspberry Pi/Raspberry Pi.md",
+    "Raspberry Pi/Raspberry Pi - Kali Linux.md",
+    "Raspberry Pi/Raspberry Pi - LCD Screen Install.md",
+    "Ideas.md",
+    "Hardware Requirements.md",
+    "Requirements.md",
     "Raspberry Pi",
     "GitHub/3. Sync GitHub Repository to Windows Machine.md",
     "GitHub/2. Setup SSH.md",
