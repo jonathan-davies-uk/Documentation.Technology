@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/2. Setup SSH.md",
+                "file": "GitHub/Git Bash Commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Setup SSH"
+              "title": "Git Bash Commands"
+            }
+          },
+          {
+            "id": "adb309ed76cb71cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ideas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/2. Setup SSH.md",
+                "file": "GitHub/3. Sync GitHub Repository to Windows Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Setup SSH"
+              "title": "Backlinks for 3. Sync GitHub Repository to Windows Machine"
             }
           },
           {
@@ -123,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/2. Setup SSH.md",
+                "file": "GitHub/3. Sync GitHub Repository to Windows Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Setup SSH"
+              "title": "Outgoing links from 3. Sync GitHub Repository to Windows Machine"
             }
           },
           {
@@ -152,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub/2. Setup SSH.md",
+                "file": "GitHub/3. Sync GitHub Repository to Windows Machine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Setup SSH"
+              "title": "Outline of 3. Sync GitHub Repository to Windows Machine"
             }
           }
         ]
@@ -180,12 +205,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "7c10713a58c6043c",
+  "active": "adb309ed76cb71cb",
   "lastOpenFiles": [
+    "Hardware Requirements.md",
+    "Ideas.md",
+    "Requirements.md",
+    "GitHub/Git Bash Commands.md",
+    "Raspberry Pi/Raspberry Pi.md",
+    "Raspberry Pi",
     "GitHub/3. Sync GitHub Repository to Windows Machine.md",
     "GitHub/2. Setup SSH.md",
     "GitHub/1. Setup Git on Windows.md",
-    "GitHub/Git Bash Commands.md",
     "Firewall/OPNsense Firewall.md",
     "Firewall/Install OPNSense Firewall on Proxmox VE.md",
     "GitHub"
