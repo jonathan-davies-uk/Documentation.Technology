@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firewall/Install OPNSense Firewall on Proxmox VE.md",
+                "file": "Raspberry Pi/Raspberry Pi - Kali Linux.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -124,35 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Install OPNSense Firewall on Proxmox VE"
-            }
-          },
-          {
-            "id": "aa8e00d2c19da151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Raspberry Pi/Raspberry Pi.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Raspberry Pi"
+              "title": "Raspberry Pi - Kali Linux"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -286,10 +262,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "aa8e00d2c19da151",
+  "active": "e3112a9b50a219f6",
   "lastOpenFiles": [
     "Firewall/Install OPNSense Firewall on Proxmox VE.md",
     "Raspberry Pi/Raspberry Pi.md",
+    "Raspberry Pi/Raspberry Pi - LCD Screen Install.md",
+    "Raspberry Pi/Raspberry Pi - Kali Linux.md",
+    "Ideas.md",
     "Raspberry Pi",
     "GitHub/Git Bash Commands.md",
     "GitHub/2. Setup SSH.md",
