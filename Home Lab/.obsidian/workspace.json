@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raspberry Pi/Raspberry Pi - LCD Screen Install.md",
+                "file": "Raspberry Pi/Raspberry Pi - Kismet Install.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Raspberry Pi - LCD Screen Install"
+              "title": "Raspberry Pi - Kismet Install"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raspberry Pi/Raspberry Pi - LCD Screen Install.md",
+                "file": "Raspberry Pi/Raspberry Pi - Kismet Install.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Raspberry Pi - LCD Screen Install"
+              "title": "Outline of Raspberry Pi - Kismet Install"
             }
           }
         ],
@@ -208,6 +208,7 @@
   "active": "adb309ed76cb71cb",
   "lastOpenFiles": [
     "Raspberry Pi/Raspberry Pi - Kali Linux.md",
+    "Raspberry Pi/Raspberry Pi - Kismet Install.md",
     "Raspberry Pi/Raspberry Pi - LCD Screen Install.md",
     "GitHub/Git Bash Commands.md",
     "Ideas.md",
