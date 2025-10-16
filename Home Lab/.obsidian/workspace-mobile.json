@@ -4,131 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "779ff9f56a6f7aee",
+        "id": "ff07d0d4854c4fb5",
         "type": "tabs",
         "children": [
           {
-            "id": "582858285d0f4598",
+            "id": "e7e615f8a8188351",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Firewall/Install OPNSense Firewall on Proxmox VE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Install OPNSense Firewall on Proxmox VE"
-            }
-          },
-          {
-            "id": "f0c850e347b2a512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virtual Environment/Proxmox VE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Proxmox VE"
-            }
-          },
-          {
-            "id": "5d7adddd95fc7c3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virtual Environment/Install Proxmox VE on Intel NUC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Install Proxmox VE on Intel NUC"
-            }
-          },
-          {
-            "id": "6646835de7a2f7ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virtual Environment/Setup Storage on Proxmox VE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Setup Storage on Proxmox VE"
-            }
-          },
-          {
-            "id": "e3112a9b50a219f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Firewall/Install OPNSense Firewall on Proxmox VE.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Install OPNSense Firewall on Proxmox VE"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,11 +151,17 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e3112a9b50a219f6",
+  "active": "e7e615f8a8188351",
   "lastOpenFiles": [
+    "Untitled.base",
+    "2025-10-13.md",
+    "Untitled.canvas",
+    "Raspberry Pi/Raspberry Pi - Kismet Install.md",
+    "Raspberry Pi/Raspberry Pi - Kali Linux.md",
+    "Raspberry Pi/Raspberry Pi - LCD Screen Install.md",
+    "Firewall/Install OPNSense Firewall on Proxmox VE.md",
     "Firewall/OPNsense Firewall.md",
     "GitHub/2. Setup SSH.md",
-    "Firewall/Install OPNSense Firewall on Proxmox VE.md",
     "GitHub/Git Bash Commands.md",
     "GitHub/3. Sync GitHub Repository to Windows Machine.md",
     "GitHub/1. Setup Git on Windows.md",
@@ -276,9 +171,7 @@
     "Virtual Environment/Setup Networking on Proxmox VE.md",
     "Virtual Environment/Proxmox VE.md",
     "Virtual Environment/Install Proxmox VE on Intel NUC.md",
-    "Raspberry Pi/Raspberry Pi - LCD Screen Install.md",
     "Ideas.md",
-    "Raspberry Pi/Raspberry Pi - Kali Linux.md",
     "Raspberry Pi/Raspberry Pi.md",
     "Raspberry Pi",
     "GitHub/Sync GitHub Repository to Windows Machine.md",
@@ -286,15 +179,10 @@
     "GitHub/Setup Git on Windows.md",
     "GitHub",
     "Virtual Environment/Untitled 2/Untitled.md",
-    "Untitled.base",
     "Home Lab.md",
     "Install OPNsense Firewall on Proxmox VE.md",
     "Testing 2.md",
-    "Testing 3.md",
-    "Untitled.canvas",
-    "Untitled 1.md",
     "Virtual Environment/Untitled 2",
-    "tag.md",
     "Virtual Environment",
     "Firewall"
   ]
