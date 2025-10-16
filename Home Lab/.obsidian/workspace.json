@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raspberry Pi/Raspberry Pi - Kismet Install.md",
+                "file": "Raspberry Pi/Raspberry Pi - Kali Linux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Raspberry Pi - Kismet Install"
+              "title": "Raspberry Pi - Kali Linux"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raspberry Pi/Raspberry Pi - Kismet Install.md",
+                "file": "Raspberry Pi/Raspberry Pi - Kali Linux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Raspberry Pi - Kismet Install"
+              "title": "Outline of Raspberry Pi - Kali Linux"
             }
           }
         ],
@@ -207,8 +207,9 @@
   },
   "active": "adb309ed76cb71cb",
   "lastOpenFiles": [
-    "Raspberry Pi/Raspberry Pi - Kali Linux.md",
     "Raspberry Pi/Raspberry Pi - Kismet Install.md",
+    "Raspberry Pi/Raspberry Pi - Kali Linux.md",
+    "Virtual Environment/Install Proxmox VE on Intel NUC.md",
     "Raspberry Pi/Raspberry Pi - LCD Screen Install.md",
     "GitHub/Git Bash Commands.md",
     "Ideas.md",

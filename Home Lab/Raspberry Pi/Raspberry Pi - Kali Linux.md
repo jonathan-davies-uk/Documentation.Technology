@@ -24,5 +24,5 @@
 	```bash
 	sudo systemctl enable --now hciuart.service
 	sudo systemctl enable --now bluetooth.service
-	sudo apt get update
+	sudo apt-get update
 	```
