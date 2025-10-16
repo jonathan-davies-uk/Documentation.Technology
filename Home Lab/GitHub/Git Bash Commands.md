@@ -13,6 +13,12 @@
 To push changes to your repository, issue the following commands:
 ```bash
 cd directorynameforrepository
+git pull origin main
+```
+
+To push changes to your repository, issue the following commands:
+```bash
+cd directorynameforrepository
 git add .
 git commit -m "New changes"
 git push origin main
