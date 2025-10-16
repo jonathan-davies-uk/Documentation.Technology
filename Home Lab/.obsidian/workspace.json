@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raspberry Pi/Raspberry Pi - Kali Linux.md",
+                "file": "GitHub/Git Bash Commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Raspberry Pi - Kali Linux"
+              "title": "Git Bash Commands"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raspberry Pi/Raspberry Pi - Kali Linux.md",
+                "file": "GitHub/Git Bash Commands.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Raspberry Pi - Kali Linux"
+              "title": "Outline of Git Bash Commands"
             }
           }
         ],
@@ -207,17 +207,17 @@
   },
   "active": "adb309ed76cb71cb",
   "lastOpenFiles": [
+    "GitHub/3. Sync GitHub Repository to Windows Machine.md",
+    "GitHub/2. Setup SSH.md",
+    "Raspberry Pi/Raspberry Pi - LCD Screen Install.md",
     "Raspberry Pi/Raspberry Pi - Kismet Install.md",
     "Raspberry Pi/Raspberry Pi - Kali Linux.md",
     "Virtual Environment/Install Proxmox VE on Intel NUC.md",
-    "Raspberry Pi/Raspberry Pi - LCD Screen Install.md",
     "GitHub/Git Bash Commands.md",
     "Ideas.md",
     "Hardware Requirements.md",
     "Requirements.md",
     "Raspberry Pi",
-    "GitHub/3. Sync GitHub Repository to Windows Machine.md",
-    "GitHub/2. Setup SSH.md",
     "GitHub/1. Setup Git on Windows.md",
     "Firewall/OPNsense Firewall.md",
     "Firewall/Install OPNSense Firewall on Proxmox VE.md",
