@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "www.jonathandavies.uk"
             }
+          },
+          {
+            "id": "93c0da034fcfe303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Websites/Website Resources.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Website Resources"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,10 +238,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "76813d90646af831",
+  "active": "12f79d0ace6546a6",
   "lastOpenFiles": [
-    "Websites/Documentation.Technology.md",
     "Websites/www.jonathandavies.uk.md",
+    "Websites/Website Resources.md",
+    "Websites/Documentation.Technology.md",
     "GitHub/Git Bash Commands.md",
     "Virtual Environment/Proxmox VE.md",
     "Websites",
@@ -246,7 +271,6 @@
     "GitHub",
     "Virtual Environment/Untitled 2/Untitled.md",
     "Home Lab.md",
-    "Install OPNsense Firewall on Proxmox VE.md",
     "Virtual Environment/Untitled 2",
     "Virtual Environment",
     "Firewall"
