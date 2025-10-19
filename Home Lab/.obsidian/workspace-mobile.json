@@ -102,9 +102,45 @@
               "icon": "lucide-file",
               "title": "Website Resources"
             }
+          },
+          {
+            "id": "410d321f81b7ada8",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "9e15a65c9f7a738a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ideas"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,9 +203,19 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "3af76ef403e174dc",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "right": {
     "id": "08add6d828b8c3af",
@@ -238,16 +284,19 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "12f79d0ace6546a6",
+  "active": "9e15a65c9f7a738a",
   "lastOpenFiles": [
-    "Websites/www.jonathandavies.uk.md",
     "Websites/Website Resources.md",
-    "Websites/Documentation.Technology.md",
+    "Ideas.md",
     "GitHub/Git Bash Commands.md",
+    "GitHub/1. Setup Git on Windows.md",
+    "Firewall/Install OPNSense Firewall on Proxmox VE.md",
+    "Tags",
+    "Websites/www.jonathandavies.uk.md",
+    "Websites/Documentation.Technology.md",
     "Virtual Environment/Proxmox VE.md",
     "Websites",
     "GitHub/3. Sync GitHub Repository to Windows Machine.md",
-    "GitHub/1. Setup Git on Windows.md",
     "Virtual Environment/Install Proxmox VE on Intel NUC.md",
     "Virtual Environment/Setup Networking on Proxmox VE.md",
     "Untitled.base",
@@ -256,13 +305,11 @@
     "Raspberry Pi/Raspberry Pi - Kismet Install.md",
     "Raspberry Pi/Raspberry Pi - Kali Linux.md",
     "Raspberry Pi/Raspberry Pi - LCD Screen Install.md",
-    "Firewall/Install OPNSense Firewall on Proxmox VE.md",
     "Firewall/OPNsense Firewall.md",
     "GitHub/2. Setup SSH.md",
     "Requirements.md",
     "Hardware Requirements.md",
     "Virtual Environment/Setup Storage on Proxmox VE.md",
-    "Ideas.md",
     "Raspberry Pi/Raspberry Pi.md",
     "Raspberry Pi",
     "GitHub/Sync GitHub Repository to Windows Machine.md",
@@ -270,7 +317,6 @@
     "GitHub/Setup Git on Windows.md",
     "GitHub",
     "Virtual Environment/Untitled 2/Untitled.md",
-    "Home Lab.md",
     "Virtual Environment/Untitled 2",
     "Virtual Environment",
     "Firewall"
