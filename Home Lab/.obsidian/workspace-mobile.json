@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Websites/Website Resources.md",
+                "file": "Ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -136,7 +136,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Website Resources"
+              "title": "Ideas"
             }
           }
         ],
@@ -205,7 +205,7 @@
         }
       },
       {
-        "id": "b4dc5a8571f7df38",
+        "id": "27a2e966bf299ca3",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -286,8 +286,8 @@
   },
   "active": "9e15a65c9f7a738a",
   "lastOpenFiles": [
-    "Ideas.md",
     "Websites/Website Resources.md",
+    "Ideas.md",
     "GitHub/Git Bash Commands.md",
     "GitHub/1. Setup Git on Windows.md",
     "Firewall/Install OPNSense Firewall on Proxmox VE.md",
