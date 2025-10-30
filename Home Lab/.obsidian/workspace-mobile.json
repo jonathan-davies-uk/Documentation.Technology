@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Firewall/Install OPNSense Firewall on Proxmox VE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -136,7 +136,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "Install OPNSense Firewall on Proxmox VE"
             }
           }
         ],
@@ -205,7 +205,7 @@
         }
       },
       {
-        "id": "fe3151c5d846a7e6",
+        "id": "b8207fc4c9836b45",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -286,19 +286,20 @@
   },
   "active": "9e15a65c9f7a738a",
   "lastOpenFiles": [
-    "Websites/Website Resources.md",
+    "Virtual Environment/Setup Storage on Proxmox VE.md",
+    "Virtual Environment/Setup Networking on Proxmox VE.md",
+    "Virtual Environment/Install Proxmox VE on Intel NUC.md",
+    "Virtual Environment/Proxmox VE.md",
     "Ideas.md",
+    "Websites/Website Resources.md",
     "GitHub/Git Bash Commands.md",
     "GitHub/1. Setup Git on Windows.md",
     "Firewall/Install OPNSense Firewall on Proxmox VE.md",
     "Tags",
     "Websites/www.jonathandavies.uk.md",
     "Websites/Documentation.Technology.md",
-    "Virtual Environment/Proxmox VE.md",
     "Websites",
     "GitHub/3. Sync GitHub Repository to Windows Machine.md",
-    "Virtual Environment/Install Proxmox VE on Intel NUC.md",
-    "Virtual Environment/Setup Networking on Proxmox VE.md",
     "Untitled.base",
     "2025-10-13.md",
     "Untitled.canvas",
@@ -309,7 +310,6 @@
     "GitHub/2. Setup SSH.md",
     "Requirements.md",
     "Hardware Requirements.md",
-    "Virtual Environment/Setup Storage on Proxmox VE.md",
     "Raspberry Pi/Raspberry Pi.md",
     "Raspberry Pi",
     "GitHub/Sync GitHub Repository to Windows Machine.md",
